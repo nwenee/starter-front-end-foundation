@@ -1,0 +1,19 @@
+/*p {*/
+/*    font-size: 14px;*/
+/*}*/
+
+/*@media all and (min-width: 800px) {*/
+/*    p {*/
+/*        font-size: 24px;*/
+/*    }*/
+/*}*/
+
+body {
+    background-color: red;
+}
+
+@media all and (min-width: 600px) {
+    body {
+        background-color: yellow;
+    }
+}
